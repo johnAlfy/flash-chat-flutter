@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "649890793305",
+    "firebase_url": "https://flash-chat-7133f.firebaseio.com",
+    "project_id": "flash-chat-7133f",
+    "storage_bucket": "flash-chat-7133f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:649890793305:android:988262c3c784f67d2eae48",
+        "android_client_info": {
+          "package_name": "co.Eureka.flash_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "649890793305-vlhklan4eh1gld90ff3ue4i5ls4fflf4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCl9gr356ZOGPi04ggBMPDQR7VCppfN_Ao"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "649890793305-vlhklan4eh1gld90ff3ue4i5ls4fflf4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
