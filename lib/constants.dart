@@ -2,7 +2,7 @@ import 'package:flutter/material.dart';
 import 'package:fluttertoast/fluttertoast.dart';
 
 const kSendButtonTextStyle = TextStyle(
-  color: Colors.lightBlueAccent,
+  color: Colors.grey,
   fontWeight: FontWeight.bold,
   fontSize: 18.0,
 );
@@ -34,6 +34,13 @@ const kTextFieldDecoration = InputDecoration(
     borderRadius: BorderRadius.all(Radius.circular(32.0)),
   ),
 );
+
+const kMessageBubbleStyle = TextStyle(
+  fontSize: 12,
+  color: Colors.black54,
+);
+
+const kMessageBubbleTextStyle = TextStyle(color: Colors.white, fontSize: 15);
 void showToast(String msg) {
   Fluttertoast.showToast(
       msg: msg,
